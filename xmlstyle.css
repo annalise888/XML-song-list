@@ -1,0 +1,7 @@
+song {display:block; border-bottom: 1px solid #a349fc; padding: 8px 30px;}
+song title {font-size: 30px; font-weight: 700;}
+song artist {display:block;}
+song genre {display:block;}
+song genre:before {content:"Genre: ";}
+song year {display:block;}
+song year:before {content:"Release Date: ";}
