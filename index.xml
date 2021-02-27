@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href = "xmlstyle.css" ?>
+<songs>
+	
+	<song>
+		<artist>Childish Gambino</artist>
+		<title>Redbone</title>
+		<genre>Funk</genre>
+		<year>2016</year>
+	</song>
+	
+	<song>
+		<artist>Daniel Caesar, Kali Uchis</artist>
+		<title>Get You</title>
+		<genre>R&amp;B/Soul</genre>
+		<year>2016</year>
+	</song>
+	
+	<song>
+		<artist>Biig Piig</artist>
+		<title>Perdida</title>
+		<genre>Neo Soul</genre>
+		<year>2018</year>
+	</song>
+	
+	<song>
+		<artist>Frank Ocean</artist>
+		<title>Pyramids</title>
+		<genre>Neo Soul</genre>
+		<year>2012</year>
+	</song>
+	
+	<song>
+		<artist>Durand Bernarr</artist>
+		<title>Melody</title>
+		<genre>R&amp;B/Soul</genre>
+		<year>2018</year>
+	</song>
+	
+	<song>
+		<artist>Masego, Don Toliver</artist>
+		<title>Mystery Lady</title>
+		<genre>R&amp;B/Soul</genre>
+		<year>2020</year>
+	</song>
+	
+	<song>
+		<artist>Kendrick Lamar</artist>
+		<title>PRIDE.</title>
+		<genre>Hip-Hop/Rap</genre>
+		<year>2017</year>
+	</song>
+	
+	<song>
+		<artist>Childish Gambino</artist>
+		<title>Lights Turned On</title>
+		<genre>Hip-Hop/Rap</genre>
+		<year>2011</year>
+	</song>
+	
+	<song>
+		<artist>Raphael Saadiq</artist>
+		<title>Good Man</title>
+		<genre>Neo Soul</genre>
+		<year>2011</year>
+	</song>
+	
+	<song>
+		<artist>Lianne La Havas</artist>
+		<title>Please Don't Make Me Cry</title>
+		<genre>R&amp;B/Soul</genre>
+		<year>2020</year>
+	</song>
+
+</songs>
